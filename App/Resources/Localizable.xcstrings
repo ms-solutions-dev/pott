@@ -1,0 +1,5159 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "": {},
+    "%": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%"
+          }
+        }
+      }
+    },
+    "%@ (copy)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ (Kopie)"
+          }
+        }
+      }
+    },
+    "%@ a month for %lld months": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ im Monat für %2$lld Monate"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$@ a month for %2$lld months"
+          }
+        }
+      }
+    },
+    "%@ of %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ von %2$@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$@ of %2$@"
+          }
+        }
+      }
+    },
+    "%@ of %@ planned": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ von %2$@ verplant"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$@ of %2$@ planned"
+          }
+        }
+      }
+    },
+    "%@ pays (€)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ zahlt (€)"
+          }
+        }
+      }
+    },
+    "%@ quarterly": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ vierteljährlich"
+          }
+        }
+      }
+    },
+    "%@ saved for “%@”": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ für „%2$@“ gespart"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$@ saved for “%2$@”"
+          }
+        }
+      }
+    },
+    "%@ yearly": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ jährlich"
+          }
+        }
+      }
+    },
+    "%@ · %@ net a month": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ · %2$@ netto im Monat"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$@ · %2$@ net a month"
+          }
+        }
+      }
+    },
+    "%@ · %@ taken over": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ · %2$@ übernommen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$@ · %2$@ taken over"
+          }
+        }
+      }
+    },
+    "%lld %%": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld %%"
+          }
+        }
+      }
+    },
+    "%lld %% left": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld %% übrig"
+          }
+        }
+      }
+    },
+    "%lld %% of your income · ≈ %@ a day": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$lld %% deines Einkommens · ≈ %2$@ am Tag"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$lld %% of your income · ≈ %2$@ a day"
+          }
+        }
+      }
+    },
+    "%lld children": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld Kinder"
+          }
+        }
+      }
+    },
+    "%lld insurers": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld Kassen"
+          }
+        }
+      }
+    },
+    "%lld sources · tap to manage": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld Einnahmen · antippen zum Verwalten"
+          }
+        }
+      }
+    },
+    "%lld.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld."
+          }
+        }
+      }
+    },
+    "+ %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "+ %@"
+          }
+        }
+      }
+    },
+    "+ New goal": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "+ Neues Sparziel"
+          }
+        }
+      }
+    },
+    "+%@ saved": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "+%@ gespart"
+          }
+        }
+      }
+    },
+    "0": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "0"
+          }
+        }
+      }
+    },
+    "1 month": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 Monat"
+          }
+        }
+      }
+    },
+    "1 source · tap to manage": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 Einnahme · antippen zum Verwalten"
+          }
+        }
+      }
+    },
+    "18.6 % of the profit, at least on €603 and at most on €8,450 a month.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "18,6 % vom Gewinn, mindestens auf 603 € und höchstens auf 8.450 € im Monat."
+          }
+        }
+      }
+    },
+    "2 months": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "2 Monate"
+          }
+        }
+      }
+    },
+    "2 weeks": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "2 Wochen"
+          }
+        }
+      }
+    },
+    "2,90": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "2,90"
+          }
+        }
+      }
+    },
+    "3 months": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3 Monate"
+          }
+        }
+      }
+    },
+    "5.5 % of the wage tax, but only above a high allowance. Most employees pay nothing.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "5,5 % der Lohnsteuer, aber erst ab einem hohen Freibetrag. Die meisten zahlen nichts."
+          }
+        }
+      }
+    },
+    "A basic pension contract (Rürup). Deducted as special expense together with the statutory pension contributions, up to €30,826 a year.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ein Basisrentenvertrag (Rürup). Zusammen mit den Beiträgen zur gesetzlichen Rente als Sonderausgabe abziehbar, bis 30.826 € im Jahr."
+          }
+        }
+      }
+    },
+    "A holiday or an emergency fund with a monthly rate.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Urlaub oder Notgroschen mit Monatsrate."
+          }
+        }
+      }
+    },
+    "A holiday, a new phone, an emergency fund: Pott works out the monthly rate.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Urlaub, neues Handy, Notgroschen: Pott rechnet die Monatsrate aus."
+          }
+        }
+      }
+    },
+    "A shared pot for rent, groceries and the like.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eine gemeinsame Kasse für Miete, Einkauf und Co."
+          }
+        }
+      }
+    },
+    "About": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Über Pott"
+          }
+        }
+      }
+    },
+    "Add as new income “%@”": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Als neue Einnahme „%@“"
+          }
+        }
+      }
+    },
+    "Add by hand": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Manuell hinzufügen"
+          }
+        }
+      }
+    },
+    "Add fixed cost": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fixkosten hinzufügen"
+          }
+        }
+      }
+    },
+    "Add member": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mitglied hinzufügen"
+          }
+        }
+      }
+    },
+    "Additional contribution %@ · GKV-Spitzenverband · as of %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zusatzbeitrag %1$@ · GKV-Spitzenverband · Stand %2$@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Additional contribution %1$@ · GKV-Spitzenverband · as of %2$@"
+          }
+        }
+      }
+    },
+    "Additional contribution in percent": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zusatzbeitrag in Prozent"
+          }
+        }
+      }
+    },
+    "Additional contribution · as of %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zusatzbeitrag · Stand %@"
+          }
+        }
+      }
+    },
+    "All months": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alle Monate"
+          }
+        }
+      }
+    },
+    "All off is the simple view: income, fixed costs and what is left.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sind alle Module aus, siehst du die einfache Ansicht: Einkommen, Fixkosten und was übrig bleibt."
+          }
+        }
+      }
+    },
+    "All shared costs then count as yours. Nothing is deleted; turning it on again restores the shared view.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alle gemeinsamen Kosten zählen dann als deine. Gelöscht wird nichts; beim Einschalten ist die gemeinsame Ansicht wieder da."
+          }
+        }
+      }
+    },
+    "Already saved (€)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schon gespart (€)"
+          }
+        }
+      }
+    },
+    "Amount": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Betrag"
+          }
+        }
+      }
+    },
+    "Amount (€)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Betrag (€)"
+          }
+        }
+      }
+    },
+    "App icon": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App-Icon"
+          }
+        }
+      }
+    },
+    "Appearance": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erscheinungsbild"
+          }
+        }
+      }
+    },
+    "Artists’ social insurance (KSK)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Künstlersozialkasse (KSK)"
+          }
+        }
+      }
+    },
+    "Average": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Durchschnitt"
+          }
+        }
+      }
+    },
+    "Average additional contribution %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Durchschnittlicher Zusatzbeitrag %@"
+          }
+        }
+      }
+    },
+    "Average for %@, set by the health ministry": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Durchschnitt %@, vom Gesundheitsministerium festgelegt"
+          }
+        }
+      }
+    },
+    "Basic pension (Rürup)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Basisrente (Rürup)"
+          }
+        }
+      }
+    },
+    "Basic pension (Rürup) per month": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Basisrente (Rürup) im Monat"
+          }
+        }
+      }
+    },
+    "Bike leasing": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dienstrad-Leasing"
+          }
+        }
+      }
+    },
+    "Bike list price": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Listenpreis des Rads"
+          }
+        }
+      }
+    },
+    "Both are optional and can be changed in the settings at any time.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Beides ist freiwillig und jederzeit in den Einstellungen änderbar."
+          }
+        }
+      }
+    },
+    "Business costs per month": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Betriebskosten im Monat"
+          }
+        }
+      }
+    },
+    "By income": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nach Einkommen"
+          }
+        }
+      }
+    },
+    "Calculation": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Berechnung"
+          }
+        }
+      }
+    },
+    "Calculator": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rechner"
+          }
+        }
+      }
+    },
+    "Cancel": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abbrechen"
+          }
+        }
+      }
+    },
+    "Cancel soon?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bald kündigen?"
+          }
+        }
+      }
+    },
+    "Cancel “%@”?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "„%@“ kündigen?"
+          }
+        }
+      }
+    },
+    "Car": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Auto"
+          }
+        }
+      }
+    },
+    "Care insurance": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pflegeversicherung"
+          }
+        }
+      }
+    },
+    "Care premium per month": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pflegebeitrag im Monat"
+          }
+        }
+      }
+    },
+    "Categories & colors": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kategorien & Farben"
+          }
+        }
+      }
+    },
+    "Category": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kategorie"
+          }
+        }
+      }
+    },
+    "Changes what is calculated": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ändert, was berechnet wird"
+          }
+        }
+      }
+    },
+    "Charge %@ VAT a month on top of your invoices and pass it on to the tax office. It is not part of the profit.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Auf deine Rechnungen kommen %@ Umsatzsteuer im Monat, die du ans Finanzamt weitergibst. Sie gehört nicht zum Gewinn."
+          }
+        }
+      }
+    },
+    "Child allowances: %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kinderfreibeträge: %@"
+          }
+        }
+      }
+    },
+    "Children under 25: %lld": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kinder unter 25: %lld"
+          }
+        }
+      }
+    },
+    "Choose your health insurer or enter the rate": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Krankenkasse wählen oder Satz eintragen"
+          }
+        }
+      }
+    },
+    "Church tax": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kirchensteuer"
+          }
+        }
+      }
+    },
+    "Civil servant": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Beamt:in"
+          }
+        }
+      }
+    },
+    "Civil servants, pensioners, company car …": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Beamte, Rentner, Dienstwagen …"
+          }
+        }
+      }
+    },
+    "Civil-servant pension or company pension paid through the payroll, included in the gross above.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Beamtenpension oder Betriebsrente über die Lohnabrechnung, im Brutto oben enthalten."
+          }
+        }
+      }
+    },
+    "Class": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Klasse"
+          }
+        }
+      }
+    },
+    "Class %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Klasse %@"
+          }
+        }
+      }
+    },
+    "Class %@:": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Klasse %@:"
+          }
+        }
+      }
+    },
+    "Class IV with factor, as on your tax notice. Leave empty without.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Klasse IV mit Faktor, wie in deinen Steuermerkmalen. Ohne Faktor leer lassen."
+          }
+        }
+      }
+    },
+    "Clear search": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Suche leeren"
+          }
+        }
+      }
+    },
+    "Color": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Farbe"
+          }
+        }
+      }
+    },
+    "Color %lld": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Farbe %lld"
+          }
+        }
+      }
+    },
+    "Combustion": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verbrenner"
+          }
+        }
+      }
+    },
+    "Company bike (salary conversion)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dienstrad (Gehaltsumwandlung)"
+          }
+        }
+      }
+    },
+    "Company car": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dienstwagen"
+          }
+        }
+      }
+    },
+    "Company pension": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Betriebsrente"
+          }
+        }
+      }
+    },
+    "Company pension from salary": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Betriebsrente aus dem Gehalt"
+          }
+        }
+      }
+    },
+    "Compulsory for some self-employed, e.g. craftspeople, teachers and midwives (§ 2 SGB VI): €735.63 a month in 2026, or by income with proof.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pflicht für manche Selbstständige, z. B. Handwerker, Lehrer und Hebammen (§ 2 SGB VI): 735,63 € im Monat 2026, oder nach Einkommen mit Nachweis."
+          }
+        }
+      }
+    },
+    "Contract ends on": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vertrag endet am"
+          }
+        }
+      }
+    },
+    "Contract number, customer number …": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vertragsnummer, Kundennummer …"
+          }
+        }
+      }
+    },
+    "Contract reminders": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vertragserinnerungen"
+          }
+        }
+      }
+    },
+    "Contract with an end date": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vertrag mit Enddatum"
+          }
+        }
+      }
+    },
+    "Create": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anlegen"
+          }
+        }
+      }
+    },
+    "Custom": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eigene"
+          }
+        }
+      }
+    },
+    "Dark": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dunkel"
+          }
+        }
+      }
+    },
+    "Data": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Daten"
+          }
+        }
+      }
+    },
+    "Day rate": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tagessatz"
+          }
+        }
+      }
+    },
+    "Day rate (€)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tagessatz (€)"
+          }
+        }
+      }
+    },
+    "Day rate needed: %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nötiger Tagessatz: %@"
+          }
+        }
+      }
+    },
+    "Day rate on the invoice: %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tagessatz auf der Rechnung: %@"
+          }
+        }
+      }
+    },
+    "Days off a year: %lld": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Freie Tage im Jahr: %lld"
+          }
+        }
+      }
+    },
+    "Days per week: %lld": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tage pro Woche: %lld"
+          }
+        }
+      }
+    },
+    "Decrease by 0.1": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Um 0,1 senken"
+          }
+        }
+      }
+    },
+    "Deducted as special expense together with the statutory pension, up to €30,826 a year.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zusammen mit der gesetzlichen Rente als Sonderausgabe abziehbar, bis 30.826 € im Jahr."
+          }
+        }
+      }
+    },
+    "Delete": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Löschen"
+          }
+        }
+      }
+    },
+    "Delete category": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kategorie löschen"
+          }
+        }
+      }
+    },
+    "Desired net": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wunschnetto"
+          }
+        }
+      }
+    },
+    "Desired net per month (€)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wunschnetto im Monat (€)"
+          }
+        }
+      }
+    },
+    "Desired take-out": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wunsch-Entnahme"
+          }
+        }
+      }
+    },
+    "Desired take-out per month (€)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wunsch-Entnahme im Monat (€)"
+          }
+        }
+      }
+    },
+    "Direction": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Richtung"
+          }
+        }
+      }
+    },
+    "Display": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Darstellung"
+          }
+        }
+      }
+    },
+    "Distance to work: %lld km": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weg zur Arbeit: %lld km"
+          }
+        }
+      }
+    },
+    "Done": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fertig"
+          }
+        }
+      }
+    },
+    "Don’t know": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weiß ich nicht"
+          }
+        }
+      }
+    },
+    "Drive": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Antrieb"
+          }
+        }
+      }
+    },
+    "Due date": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fälligkeit"
+          }
+        }
+      }
+    },
+    "Due on day": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fällig am"
+          }
+        }
+      }
+    },
+    "Duplicate": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Duplizieren"
+          }
+        }
+      }
+    },
+    "Edit": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bearbeiten"
+          }
+        }
+      }
+    },
+    "Electric": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elektro"
+          }
+        }
+      }
+    },
+    "Emergency fund": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notgroschen"
+          }
+        }
+      }
+    },
+    "Employee": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Angestellt"
+          }
+        }
+      }
+    },
+    "Energy": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Energie"
+          }
+        }
+      }
+    },
+    "Enter an amount": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Betrag eingeben"
+          }
+        }
+      }
+    },
+    "Enter percent": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prozent selbst"
+          }
+        }
+      }
+    },
+    "Entered by hand": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Manuell eingetragen"
+          }
+        }
+      }
+    },
+    "Equal": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gleich verteilt"
+          }
+        }
+      }
+    },
+    "Everyday": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alltag"
+          }
+        }
+      }
+    },
+    "Everyone invited sees and edits the shared costs and goals. Personal entries stay private. All members need an iPhone with iCloud.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alle Eingeladenen sehen und bearbeiten die gemeinsamen Kosten und Sparziele. Persönliche Einträge bleiben privat. Alle brauchen ein iPhone mit iCloud."
+          }
+        }
+      }
+    },
+    "Everyone pays a fixed amount. Whatever is not needed stays in the pot.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jeder zahlt einen festen Betrag. Was nicht gebraucht wird, bleibt in der Kasse."
+          }
+        }
+      }
+    },
+    "Example calculation without guarantee, income tax by the 2026 tariff. Assumes the same profit every month. Child benefit is checked against the child allowances but not counted as income. VAT is shown but is not part of the profit. Not included: other income and deductions, and the artists’ fund subsidy for private insurance.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Beispielrechnung ohne Gewähr, Einkommensteuer nach dem Tarif 2026. Rechnet mit gleichem Gewinn in jedem Monat. Das Kindergeld wird mit den Kinderfreibeträgen verglichen, aber nicht als Einnahme gezählt. Die Umsatzsteuer wird gezeigt, gehört aber nicht zum Gewinn. Nicht enthalten: weitere Einkünfte und Abzüge sowie der KSK-Zuschuss zur privaten Versicherung."
+          }
+        }
+      }
+    },
+    "Example calculation without guarantee. Wage tax as in the official program of the German Federal Ministry of Finance. Not included: several jobs on one payslip, and the effect of short-time allowance on next year's tax return.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Beispielrechnung ohne Gewähr. Lohnsteuer wie im amtlichen Programm des Bundesfinanzministeriums. Nicht enthalten: mehrere Jobs auf einer Abrechnung und die Wirkung des Kurzarbeitergelds auf die Steuererklärung im Folgejahr."
+          }
+        }
+      }
+    },
+    "Exempt from pension insurance": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Von der Rentenversicherung befreit"
+          }
+        }
+      }
+    },
+    "Expected revenue this year": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erwarteter Umsatz dieses Jahr"
+          }
+        }
+      }
+    },
+    "Explanations": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erklärungen"
+          }
+        }
+      }
+    },
+    "Export as CSV": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Als CSV exportieren"
+          }
+        }
+      }
+    },
+    "Factor": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Faktor"
+          }
+        }
+      }
+    },
+    "Feedback & support": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Feedback & Hilfe"
+          }
+        }
+      }
+    },
+    "Find insurer": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kasse suchen"
+          }
+        }
+      }
+    },
+    "Fixed amount": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fester Betrag"
+          }
+        }
+      }
+    },
+    "Fixed cost": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fixkosten"
+          }
+        }
+      }
+    },
+    "Fixed costs": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fixkosten"
+          }
+        }
+      }
+    },
+    "Fixed costs of this category stay and are listed under “Other”.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fixkosten dieser Kategorie bleiben erhalten und stehen unter „Sonstiges“."
+          }
+        }
+      }
+    },
+    "Flatmate": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mitbewohner"
+          }
+        }
+      }
+    },
+    "For a trade business: 3.5 % of the profit above €24,500 times the town’s multiplier. Up to four times that base amount is credited against income tax.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Für Gewerbebetriebe: 3,5 % des Gewinns über 24.500 € mal Hebesatz der Gemeinde. Bis zum Vierfachen dieses Messbetrags wird auf die Einkommensteuer angerechnet."
+          }
+        }
+      }
+    },
+    "For artists and publicists: the Künstlersozialkasse pays the other half of health, care and pension insurance.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Für Künstler und Publizisten: Die Künstlersozialkasse zahlt die andere Hälfte von Kranken-, Pflege- und Rentenversicherung."
+          }
+        }
+      }
+    },
+    "Freelancers (doctors, designers, developers …) pay no trade tax.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Freiberufler (Ärztinnen, Designer, Entwicklerinnen …) zahlen keine Gewerbesteuer."
+          }
+        }
+      }
+    },
+    "From next month on you see here how much was left at the end of each month.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ab nächstem Monat siehst du hier, wie viel am Ende jedes Monats übrig war."
+          }
+        }
+      }
+    },
+    "From the calculator · %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aus dem Rechner · %@"
+          }
+        }
+      }
+    },
+    "Full": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Voll"
+          }
+        }
+      }
+    },
+    "Goal reached": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ziel erreicht"
+          }
+        }
+      }
+    },
+    "Goals like a holiday with a monthly rate": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ziele wie Urlaub mit Monatsrate"
+          }
+        }
+      }
+    },
+    "Groceries": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lebensmittel"
+          }
+        }
+      }
+    },
+    "Gross %@ · class %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Brutto %1$@ · Kl. %2$@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gross %1$@ · class %2$@"
+          }
+        }
+      }
+    },
+    "Gross %@ · class I": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Brutto %@ · Kl. I"
+          }
+        }
+      }
+    },
+    "Gross actually earned": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tatsächlich verdientes Brutto"
+          }
+        }
+      }
+    },
+    "Gross needed": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nötiges Brutto"
+          }
+        }
+      }
+    },
+    "Gross per month (€)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Brutto im Monat (€)"
+          }
+        }
+      }
+    },
+    "Gross to net, second tab": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Brutto-Netto, zweiter Reiter"
+          }
+        }
+      }
+    },
+    "Gross → net": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Brutto → Netto"
+          }
+        }
+      }
+    },
+    "Gross→net": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Brutto→Netto"
+          }
+        }
+      }
+    },
+    "Gym": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fitnessstudio"
+          }
+        }
+      }
+    },
+    "Half of 14.6 % plus half of your health insurer’s additional contribution, up to the contribution ceiling.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Hälfte von 14,6 % plus die Hälfte des Zusatzbeitrags deiner Krankenkasse, bis zur Beitragsbemessungsgrenze."
+          }
+        }
+      }
+    },
+    "Half of 18.6 %, up to the contribution ceiling. In a mini job 3.6 %.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Hälfte von 18,6 %, bis zur Beitragsbemessungsgrenze. Im Minijob 3,6 %."
+          }
+        }
+      }
+    },
+    "Half of 2.6 %, up to the contribution ceiling.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Hälfte von 2,6 %, bis zur Beitragsbemessungsgrenze."
+          }
+        }
+      }
+    },
+    "Half, first three years": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Halb, erste drei Jahre"
+          }
+        }
+      }
+    },
+    "Has a note": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hat eine Notiz"
+          }
+        }
+      }
+    },
+    "Has had children": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hat Kinder (auch ältere)"
+          }
+        }
+      }
+    },
+    "Health and care insurance run through your job.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kranken- und Pflegeversicherung laufen über deinen Job."
+          }
+        }
+      }
+    },
+    "Health insurance": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Krankenversicherung"
+          }
+        }
+      }
+    },
+    "Health insurance: %@, %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Krankenkasse: %1$@, %2$@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Health insurance: %1$@, %2$@"
+          }
+        }
+      }
+    },
+    "Health insurer": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Krankenkasse"
+          }
+        }
+      }
+    },
+    "Health premium per month": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Krankenbeitrag im Monat"
+          }
+        }
+      }
+    },
+    "Hide tip": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tipp ausblenden"
+          }
+        }
+      }
+    },
+    "Holiday": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Urlaub"
+          }
+        }
+      }
+    },
+    "Household": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Haushalt"
+          }
+        }
+      }
+    },
+    "Housing": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wohnen"
+          }
+        }
+      }
+    },
+    "How do you pay in?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wie zahlt ihr ein?"
+          }
+        }
+      }
+    },
+    "How often?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wie oft?"
+          }
+        }
+      }
+    },
+    "I am %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ich bin %@"
+          }
+        }
+      }
+    },
+    "I am new in this household": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ich bin neu im Haushalt"
+          }
+        }
+      }
+    },
+    "I calculate as": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ich rechne als"
+          }
+        }
+      }
+    },
+    "I calculate as %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ich rechne als %@"
+          }
+        }
+      }
+    },
+    "I know my net pay": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ich kenne mein Netto"
+          }
+        }
+      }
+    },
+    "I only know my gross pay": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ich kenne nur mein Brutto"
+          }
+        }
+      }
+    },
+    "In a mini job you pay no wage tax and no health or care insurance. Only 3.6 % pension insurance is due, unless you are exempt.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Im Minijob zahlst du keine Lohnsteuer und keine Kranken- oder Pflegeversicherung. Es fallen nur 3,6 % Rentenversicherung an, außer du hast dich befreien lassen."
+          }
+        }
+      }
+    },
+    "Includes %@ taxed benefit, not paid out": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enthält %@ geldwerten Vorteil, der versteuert, aber nicht ausgezahlt wird"
+          }
+        }
+      }
+    },
+    "Income": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mein Einkommen"
+          }
+        }
+      }
+    },
+    "Income %@ · fixed costs %@ · savings %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Einkommen %1$@ · Fixkosten %2$@ · Sparen %3$@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Income %1$@ · fixed costs %2$@ · savings %3$@"
+          }
+        }
+      }
+    },
+    "Income tax taken directly from your salary. How much depends on your tax class, child allowances and the progressive tax rate.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Einkommensteuer, die direkt vom Gehalt abgezogen wird. Wie viel, hängt von Steuerklasse, Kinderfreibeträgen und dem Steuertarif ab."
+          }
+        }
+      }
+    },
+    "Increase by 0.1": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Um 0,1 erhöhen"
+          }
+        }
+      }
+    },
+    "Input": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eingabe"
+          }
+        }
+      }
+    },
+    "Insurance": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Versicherungen"
+          }
+        }
+      }
+    },
+    "Internet": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Internet"
+          }
+        }
+      }
+    },
+    "Invite through iCloud": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Über iCloud einladen"
+          }
+        }
+      }
+    },
+    "It is in your insurer’s letter or on its website, usually called “Zusatzbeitrag”. As an employee you pay half, your employer the other half.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Steht im Brief deiner Kasse oder auf ihrer Website, meist als „Zusatzbeitrag“. Als Angestellte zahlst du die Hälfte, dein Arbeitgeber die andere."
+          }
+        }
+      }
+    },
+    "Join": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Beitreten"
+          }
+        }
+      }
+    },
+    "Kept, but not counted this month": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bleibt gespeichert, zählt aber diesen Monat nicht"
+          }
+        }
+      }
+    },
+    "Kind": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Art"
+          }
+        }
+      }
+    },
+    "Last unemployment benefit per month": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zuletzt bezogenes Arbeitslosengeld im Monat"
+          }
+        }
+      }
+    },
+    "Leasing rate per month": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Leasingrate im Monat"
+          }
+        }
+      }
+    },
+    "Left": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Übrig"
+          }
+        }
+      }
+    },
+    "Left at 0, it is estimated from your profit and costs: %@.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bei 0 wird er aus Gewinn und Kosten geschätzt: %@."
+          }
+        }
+      }
+    },
+    "Left for you": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bleibt dir"
+          }
+        }
+      }
+    },
+    "Left this month": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Übrig diesen Monat"
+          }
+        }
+      }
+    },
+    "Left: %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Übrig: %@"
+          }
+        }
+      }
+    },
+    "Let’s go": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Los geht’s"
+          }
+        }
+      }
+    },
+    "Light": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hell"
+          }
+        }
+      }
+    },
+    "Like the iPhone": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wie iPhone"
+          }
+        }
+      }
+    },
+    "Lime": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Limette"
+          }
+        }
+      }
+    },
+    "List price": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bruttolistenpreis"
+          }
+        }
+      }
+    },
+    "Lock with Face ID": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mit Face ID sperren"
+          }
+        }
+      }
+    },
+    "Main job": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hauptjob"
+          }
+        }
+      }
+    },
+    "Manage sharing": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Teilen verwalten"
+          }
+        }
+      }
+    },
+    "Married, taxed jointly": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verheiratet, Zusammenveranlagung"
+          }
+        }
+      }
+    },
+    "Me": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ich"
+          }
+        }
+      }
+    },
+    "Mini job": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Minijob"
+          }
+        }
+      }
+    },
+    "Mini job · gross %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Minijob · brutto %@"
+          }
+        }
+      }
+    },
+    "Mini job:": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Minijob:"
+          }
+        }
+      }
+    },
+    "Mobility": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mobilität"
+          }
+        }
+      }
+    },
+    "Mode": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modus"
+          }
+        }
+      }
+    },
+    "Modules": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Module"
+          }
+        }
+      }
+    },
+    "Month": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Monat"
+          }
+        }
+      }
+    },
+    "Monthly": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Monatlich"
+          }
+        }
+      }
+    },
+    "Monthly review": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Monatsrückblick"
+          }
+        }
+      }
+    },
+    "Monthly · day %lld": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Monatlich · am %lld."
+          }
+        }
+      }
+    },
+    "Months 1–6": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Monat 1–6"
+          }
+        }
+      }
+    },
+    "Months 7–15": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Monat 7–15"
+          }
+        }
+      }
+    },
+    "More details": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weitere Angaben"
+          }
+        }
+      }
+    },
+    "My fixed costs": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Meine Fixkosten"
+          }
+        }
+      }
+    },
+    "My income": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mein Einkommen"
+          }
+        }
+      }
+    },
+    "Name": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Name"
+          }
+        }
+      }
+    },
+    "Name, e.g. TK or AOK": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Name, z. B. TK oder AOK"
+          }
+        }
+      }
+    },
+    "Net income of %@ (€)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Netto-Einkommen von %@ (€)"
+          }
+        }
+      }
+    },
+    "Net per month (€)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Netto im Monat (€)"
+          }
+        }
+      }
+    },
+    "New category": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Neue Kategorie"
+          }
+        }
+      }
+    },
+    "New fixed cost": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Neuer Posten"
+          }
+        }
+      }
+    },
+    "New income": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Neue Einnahme"
+          }
+        }
+      }
+    },
+    "New phone": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Neues Handy"
+          }
+        }
+      }
+    },
+    "New savings goal": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Neues Sparziel"
+          }
+        }
+      }
+    },
+    "Next": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weiter"
+          }
+        }
+      }
+    },
+    "No fixed costs yet": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Noch keine Fixkosten"
+          }
+        }
+      }
+    },
+    "No insurer matches “%@” in %@. Turn the filter off or enter the percent yourself.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keine Kasse passt zu „%1$@“ in %2$@. Filter aus oder Prozent selbst eintragen."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "No insurer matches “%1$@” in %2$@. Turn the filter off or enter the percent yourself."
+          }
+        }
+      }
+    },
+    "No insurer matches “%@”. Enter the percent yourself.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keine Kasse passt zu „%@“. Trag den Prozentsatz selbst ein."
+          }
+        }
+      }
+    },
+    "No savings goal yet": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Noch kein Sparziel"
+          }
+        }
+      }
+    },
+    "No social insurance; health cover is private.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keine Sozialversicherung, die Krankenversicherung ist privat."
+          }
+        }
+      }
+    },
+    "None": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keine"
+          }
+        }
+      }
+    },
+    "Note": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notiz"
+          }
+        }
+      }
+    },
+    "Nothing entered yet · tap to add": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Noch nichts eingetragen · antippen"
+          }
+        }
+      }
+    },
+    "Notice before a contract renews": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hinweis, bevor sich ein Vertrag verlängert"
+          }
+        }
+      }
+    },
+    "Notice by %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kündigen bis %@"
+          }
+        }
+      }
+    },
+    "Notice period": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kündigungsfrist"
+          }
+        }
+      }
+    },
+    "OK": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OK"
+          }
+        }
+      }
+    },
+    "On the profit": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Auf den Gewinn"
+          }
+        }
+      }
+    },
+    "One-off payment": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Einmalzahlung"
+          }
+        }
+      }
+    },
+    "Only for members of a church that collects it: 8 % of the wage tax in Bavaria and Baden-Württemberg, 9 % elsewhere.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nur für Mitglieder einer Kirche, die sie erhebt: 8 % der Lohnsteuer in Bayern und Baden-Württemberg, sonst 9 %."
+          }
+        }
+      }
+    },
+    "Only me": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nur ich"
+          }
+        }
+      }
+    },
+    "Only needed from 64: an age relief lowers the tax.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nur ab 64 nötig: Der Altersentlastungsbetrag senkt die Steuer."
+          }
+        }
+      }
+    },
+    "Open Pott and enter your income.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Öffne Pott und trag dein Einkommen ein."
+          }
+        }
+      }
+    },
+    "Open in %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In %@ wählbar"
+          }
+        }
+      }
+    },
+    "Other": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sonstiges"
+          }
+        }
+      }
+    },
+    "Our household in Pott": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unser Haushalt in Pott"
+          }
+        }
+      }
+    },
+    "Overview": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Übersicht"
+          }
+        }
+      }
+    },
+    "Own payment for the car": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eigenanteil Dienstwagen"
+          }
+        }
+      }
+    },
+    "Own rate": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eigener Satz"
+          }
+        }
+      }
+    },
+    "Own shares": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eigene Anteile"
+          }
+        }
+      }
+    },
+    "Paid in": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ausgezahlt im"
+          }
+        }
+      }
+    },
+    "Paid once on top of the month above, taxed with the annual table.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kommt einmalig zum Monat oben dazu und wird nach der Jahrestabelle versteuert."
+          }
+        }
+      }
+    },
+    "Paid since %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gezahlt seit %@"
+          }
+        }
+      }
+    },
+    "Partner": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Partner"
+          }
+        }
+      }
+    },
+    "Partner or flatmate": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Partner oder Mitbewohner"
+          }
+        }
+      }
+    },
+    "Partner’s taxable income per year": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zu versteuerndes Einkommen Partner:in im Jahr"
+          }
+        }
+      }
+    },
+    "Pause": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pausieren"
+          }
+        }
+      }
+    },
+    "Paused": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pausiert"
+          }
+        }
+      }
+    },
+    "Pay calculator": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rechner"
+          }
+        }
+      }
+    },
+    "Payments into the pot": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Einzahlungen in die Kasse"
+          }
+        }
+      }
+    },
+    "Pension": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rente"
+          }
+        }
+      }
+    },
+    "Pension from a former employer": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Versorgungsbezug"
+          }
+        }
+      }
+    },
+    "Pension insurance": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rentenversicherung"
+          }
+        }
+      }
+    },
+    "Pension insurance (KSK)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rentenversicherung (KSK)"
+          }
+        }
+      }
+    },
+    "Pensioner": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rentner:in"
+          }
+        }
+      }
+    },
+    "Phone": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Handy"
+          }
+        }
+      }
+    },
+    "Please enter an amount, e.g. 18,36.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bitte einen Betrag eingeben, z. B. 18,36."
+          }
+        }
+      }
+    },
+    "Plug-in hybrid": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plug-in-Hybrid"
+          }
+        }
+      }
+    },
+    "Pott": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pott"
+          }
+        }
+      }
+    },
+    "Pott is locked": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pott ist gesperrt"
+          }
+        }
+      }
+    },
+    "Pott reminds you two weeks before the notice deadline.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pott erinnert dich zwei Wochen vor Ablauf der Kündigungsfrist."
+          }
+        }
+      }
+    },
+    "Pott.csv": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pott.csv"
+          }
+        }
+      }
+    },
+    "Power & gas": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Strom & Gas"
+          }
+        }
+      }
+    },
+    "Private": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Privat"
+          }
+        }
+      }
+    },
+    "Private health insurance": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Privat krankenversichert"
+          }
+        }
+      }
+    },
+    "Private insurance": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Private Kranken- und Pflegeversicherung"
+          }
+        }
+      }
+    },
+    "Profit": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gewinn"
+          }
+        }
+      }
+    },
+    "Profit %@ · self-employed": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gewinn %@ · selbstständig"
+          }
+        }
+      }
+    },
+    "Profit means revenue minus business costs, without VAT.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gewinn heißt Umsatz minus Betriebsausgaben, ohne Umsatzsteuer."
+          }
+        }
+      }
+    },
+    "Profit needed": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nötiger Gewinn"
+          }
+        }
+      }
+    },
+    "Profit per month (€)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gewinn im Monat (€)"
+          }
+        }
+      }
+    },
+    "Profit → take-out": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gewinn → Entnahme"
+          }
+        }
+      }
+    },
+    "Profit→take-out": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gewinn→Entn."
+          }
+        }
+      }
+    },
+    "Public transport ticket": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ÖPNV-Ticket"
+          }
+        }
+      }
+    },
+    "Put aside each quarter: %@ tax advance": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pro Quartal zurücklegen: %@ Steuervorauszahlung"
+          }
+        }
+      }
+    },
+    "Quarterly": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vierteljährlich"
+          }
+        }
+      }
+    },
+    "Rates of %@ as of %@, GKV-Spitzenverband. The rates for %@ are not out yet.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sätze %1$@, Stand %2$@, GKV-Spitzenverband. Die Sätze für %3$@ sind noch nicht veröffentlicht."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Rates of %1$@ as of %2$@, GKV-Spitzenverband. The rates for %3$@ are not out yet."
+          }
+        }
+      }
+    },
+    "Reach the goal by": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ziel erreichen bis"
+          }
+        }
+      }
+    },
+    "Rent": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Miete"
+          }
+        }
+      }
+    },
+    "Resume": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fortsetzen"
+          }
+        }
+      }
+    },
+    "Revenue last year": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Umsatz im Vorjahr"
+          }
+        }
+      }
+    },
+    "Revenue last year was above €25,000, so you charge VAT this year.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der Umsatz im Vorjahr lag über 25.000 €, also stellst du dieses Jahr Umsatzsteuer in Rechnung."
+          }
+        }
+      }
+    },
+    "Revenue this year goes above €100,000, so the small business rule no longer applies.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der Umsatz dieses Jahr liegt über 100.000 €, damit gilt die Kleinunternehmerregelung nicht mehr."
+          }
+        }
+      }
+    },
+    "Rules of 2026": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rechenstand 2026"
+          }
+        }
+      }
+    },
+    "Salary": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gehalt"
+          }
+        }
+      }
+    },
+    "Salary paid into a company pension. Up to €676 a month is tax-free and up to €338 free of social insurance.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gehalt, das in eine Betriebsrente fließt. Bis 676 € im Monat sind steuerfrei, bis 338 € frei von Sozialabgaben."
+          }
+        }
+      }
+    },
+    "Save": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Speichern"
+          }
+        }
+      }
+    },
+    "Save for goals": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Auf Ziele sparen"
+          }
+        }
+      }
+    },
+    "Savings goal": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sparziel"
+          }
+        }
+      }
+    },
+    "Savings goal “%@”: %@ a month": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sparziel „%1$@“: %2$@ im Monat"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Savings goal “%1$@”: %2$@ a month"
+          }
+        }
+      }
+    },
+    "Savings goals": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sparziele"
+          }
+        }
+      }
+    },
+    "Second job": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nebenjob"
+          }
+        }
+      }
+    },
+    "Second job:": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nebenjob:"
+          }
+        }
+      }
+    },
+    "Self-employed": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Selbstständig"
+          }
+        }
+      }
+    },
+    "Self-employed:": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Selbstständig:"
+          }
+        }
+      }
+    },
+    "Settings": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Einstellungen"
+          }
+        }
+      }
+    },
+    "Several jobs? Work out each one in the calculator and take it over as its own income. Enter a mini job, child benefit or rent income by hand.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mehrere Jobs? Rechne jeden einzeln im Rechner aus und übernimm ihn als eigene Einnahme. Minijob, Kindergeld oder Mieteinnahmen trägst du von Hand ein."
+          }
+        }
+      }
+    },
+    "Share costs with a partner": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kosten mit Partner teilen"
+          }
+        }
+      }
+    },
+    "Share of %@ in %%": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anteil von %@ in %%"
+          }
+        }
+      }
+    },
+    "Share of the household pot": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Beitrag zur gemeinsamen Kasse"
+          }
+        }
+      }
+    },
+    "Shared costs": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gemeinsame Kosten"
+          }
+        }
+      }
+    },
+    "Shared costs and goals": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gemeinsame Kosten und Sparziele"
+          }
+        }
+      }
+    },
+    "Shared pot": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gemeinsame Kasse"
+          }
+        }
+      }
+    },
+    "Shared pot with partner or flatmates": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gemeinsame Kasse mit Partner oder WG"
+          }
+        }
+      }
+    },
+    "Shared savings goals": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gemeinsame Sparziele"
+          }
+        }
+      }
+    },
+    "Sharing": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Teilen"
+          }
+        }
+      }
+    },
+    "Short help on taxes and terms": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kurze Hilfe zu Steuern und Begriffen"
+          }
+        }
+      }
+    },
+    "Short this month": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fehlt diesen Monat"
+          }
+        }
+      }
+    },
+    "Short-time allowance": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kurzarbeitergeld"
+          }
+        }
+      }
+    },
+    "Short-time work this month": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kurzarbeit in diesem Monat"
+          }
+        }
+      }
+    },
+    "Show the introduction again": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Einführung erneut zeigen"
+          }
+        }
+      }
+    },
+    "Shows an explanation": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zeigt eine Erklärung"
+          }
+        }
+      }
+    },
+    "Side business next to my job": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nebenberuflich neben meinem Job"
+          }
+        }
+      }
+    },
+    "Sign in to iCloud to share the household": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Melde dich bei iCloud an, um den Haushalt zu teilen"
+          }
+        }
+      }
+    },
+    "Simple": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Einfach"
+          }
+        }
+      }
+    },
+    "Simple shows income, fixed costs and what is left. Full switches every module on.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Einfach zeigt Einkommen, Fixkosten und was übrig bleibt. Voll schaltet alle Module ein."
+          }
+        }
+      }
+    },
+    "Skip": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Überspringen"
+          }
+        }
+      }
+    },
+    "Small business, no VAT (§ 19 UStG)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kleinunternehmer, keine USt (§ 19 UStG)"
+          }
+        }
+      }
+    },
+    "Solidarity surcharge": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Solidaritätszuschlag"
+          }
+        }
+      }
+    },
+    "Something went wrong": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Da ist etwas schiefgegangen"
+          }
+        }
+      }
+    },
+    "Sort": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sortierung"
+          }
+        }
+      }
+    },
+    "Sort fixed costs by": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fixkosten sortieren nach"
+          }
+        }
+      }
+    },
+    "Special cases": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sonderfälle"
+          }
+        }
+      }
+    },
+    "Standard contribution": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Regelbeitrag"
+          }
+        }
+      }
+    },
+    "Start-up grant": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gründungszuschuss"
+          }
+        }
+      }
+    },
+    "Start-up grant (Gründungszuschuss)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gründungszuschuss"
+          }
+        }
+      }
+    },
+    "State": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bundesland"
+          }
+        }
+      }
+    },
+    "Statutory": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gesetzlich"
+          }
+        }
+      }
+    },
+    "Statutory pension": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gesetzliche Rente"
+          }
+        }
+      }
+    },
+    "Statutory pension through the KSK: you pay half of 18.6 % of your income.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gesetzliche Rente über die KSK: Du zahlst die Hälfte von 18,6 % deines Einkommens."
+          }
+        }
+      }
+    },
+    "Streaming": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Streaming"
+          }
+        }
+      }
+    },
+    "Subscriptions & contracts": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abos & Verträge"
+          }
+        }
+      }
+    },
+    "Take over": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Übernehmen"
+          }
+        }
+      }
+    },
+    "Take over as income": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Als Einnahme übernehmen"
+          }
+        }
+      }
+    },
+    "Taken over from the calculator · %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aus dem Rechner übernommen · %@"
+          }
+        }
+      }
+    },
+    "Tap here and pick yourself, then Pott works out your share.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tippe hier und wähle dich aus, dann rechnet Pott deinen Anteil aus."
+          }
+        }
+      }
+    },
+    "Tap here to add rent, a phone contract or anything else that is due regularly.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tippe hier, um Miete, Handyvertrag oder anderes Regelmäßiges anzulegen."
+          }
+        }
+      }
+    },
+    "Tap what applies. You adjust the amounts afterwards.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tippe an, was passt. Die Beträge passt du danach an."
+          }
+        }
+      }
+    },
+    "Tap “My income” below": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tippe unten auf „Mein Einkommen“"
+          }
+        }
+      }
+    },
+    "Target (€)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ziel (€)"
+          }
+        }
+      }
+    },
+    "Tax allowance per month": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Freibetrag im Monat"
+          }
+        }
+      }
+    },
+    "Tax class": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Steuerklasse"
+          }
+        }
+      }
+    },
+    "Tax-free up to €676, free of social insurance up to €338 a month.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bis 676 € im Monat steuerfrei, bis 338 € frei von Sozialabgaben."
+          }
+        }
+      }
+    },
+    "Taxed each month: 1 % of the list price plus 0.03 % per kilometre to work. Hybrids count half, electric cars up to €100,000 a quarter.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jeden Monat versteuert: 1 % des Listenpreises plus 0,03 % je Kilometer zur Arbeit. Hybride zählen zur Hälfte, E-Autos bis 100.000 € zu einem Viertel."
+          }
+        }
+      }
+    },
+    "Taxed on top of the salary entered for the main job; health insurance runs through the job.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wird zusätzlich zum Gehalt aus dem Hauptjob versteuert; die Krankenversicherung läuft über den Job."
+          }
+        }
+      }
+    },
+    "That is %@ a month.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Das sind %@ im Monat."
+          }
+        }
+      }
+    },
+    "That is about %@ net a month.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Das sind etwa %@ netto im Monat."
+          }
+        }
+      }
+    },
+    "The gross above is your usual pay. The allowance is 60 % of the lost net pay, 67 % with a child; it is tax-free but raises the tax rate on your other income.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Das Brutto oben ist dein übliches Gehalt. Kurzarbeitergeld beträgt 60 % des ausgefallenen Nettos, mit Kind 67 %. Es ist steuerfrei, erhöht aber den Steuersatz auf deine übrigen Einkünfte."
+          }
+        }
+      }
+    },
+    "The leasing rate comes out of your gross. In return, only 0.25 % of the list price is taxed as a benefit.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Leasingrate geht vom Brutto ab. Dafür werden nur 0,25 % des Listenpreises als Vorteil versteuert."
+          }
+        }
+      }
+    },
+    "The list says %@ since %@. Use it": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Laut Liste %1$@ (Stand %2$@). Übernehmen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "The list says %1$@ since %2$@. Use it"
+          }
+        }
+      }
+    },
+    "The notice period ends on %@.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Kündigungsfrist endet am %@."
+          }
+        }
+      }
+    },
+    "The shared costs are split equally.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die gemeinsamen Kosten werden gleich aufgeteilt."
+          }
+        }
+      }
+    },
+    "The small business rule applies: no VAT on your invoices, but no refund of VAT you pay either.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Kleinunternehmerregelung gilt: keine Umsatzsteuer auf deinen Rechnungen, aber auch keine Erstattung gezahlter Vorsteuer."
+          }
+        }
+      }
+    },
+    "This household was shared with you. Your personal entries stay private.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dieser Haushalt wurde mit dir geteilt. Deine persönlichen Einträge bleiben privat."
+          }
+        }
+      }
+    },
+    "Tip: swipe left to delete, right to pause, or tap and hold for more.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tipp: Nach links wischen zum Löschen, nach rechts zum Pausieren, lange drücken für mehr."
+          }
+        }
+      }
+    },
+    "Together": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gemeinsam"
+          }
+        }
+      }
+    },
+    "Together %@ a month": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zusammen %@ im Monat"
+          }
+        }
+      }
+    },
+    "Trade business": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gewerbebetrieb"
+          }
+        }
+      }
+    },
+    "Trade tax": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gewerbesteuer"
+          }
+        }
+      }
+    },
+    "Trade tax multiplier: %lld %%": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hebesatz: %lld %%"
+          }
+        }
+      }
+    },
+    "Turn off": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ausschalten"
+          }
+        }
+      }
+    },
+    "Turn off the household?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Haushalt ausschalten?"
+          }
+        }
+      }
+    },
+    "Undo": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rückgängig"
+          }
+        }
+      }
+    },
+    "Unemployment insurance": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Arbeitslosenversicherung"
+          }
+        }
+      }
+    },
+    "Unlock": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entsperren"
+          }
+        }
+      }
+    },
+    "Unlock Pott": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pott entsperren"
+          }
+        }
+      }
+    },
+    "Until three calendar years after the year you started: half the standard contribution, €367.82 a month.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bis drei Kalenderjahre nach dem Jahr der Gründung: halber Regelbeitrag, 367,82 € im Monat."
+          }
+        }
+      }
+    },
+    "Up to €3,900 a year from artistic work you are only insured through the KSK in your first three years.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bis 3.900 € im Jahr aus künstlerischer Arbeit bist du nur in den ersten drei Jahren über die KSK versichert."
+          }
+        }
+      }
+    },
+    "Update “%@” (so far %@)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "„%1$@“ aktualisieren (bisher %2$@)"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Update “%1$@” (so far %2$@)"
+          }
+        }
+      }
+    },
+    "VAT": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Umsatzsteuer"
+          }
+        }
+      }
+    },
+    "VAT rate": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Umsatzsteuersatz"
+          }
+        }
+      }
+    },
+    "Version": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Version"
+          }
+        }
+      }
+    },
+    "View": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ansicht"
+          }
+        }
+      }
+    },
+    "Wage tax": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lohnsteuer"
+          }
+        }
+      }
+    },
+    "Warm rent incl. service charges": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Warmmiete inkl. Nebenkosten"
+          }
+        }
+      }
+    },
+    "What arrives each month?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Was kommt jeden Monat an?"
+          }
+        }
+      }
+    },
+    "What else do you need?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Was brauchst du noch?"
+          }
+        }
+      }
+    },
+    "What is left after your fixed costs.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Was nach deinen Fixkosten übrig bleibt."
+          }
+        }
+      }
+    },
+    "What was left in past months": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Was in den letzten Monaten übrig blieb"
+          }
+        }
+      }
+    },
+    "What was left in the last months": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Was in den letzten Monaten übrig blieb"
+          }
+        }
+      }
+    },
+    "What you pay for the car yourself. It lowers the taxed benefit.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Was du selbst für den Wagen zahlst. Das senkt den versteuerten Vorteil."
+          }
+        }
+      }
+    },
+    "Which fixed costs do you have?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Welche Fixkosten hast du?"
+          }
+        }
+      }
+    },
+    "Who are you?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wer bist du?"
+          }
+        }
+      }
+    },
+    "Who lives in the household?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wer wohnt im Haushalt?"
+          }
+        }
+      }
+    },
+    "Who pays?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wer zahlt?"
+          }
+        }
+      }
+    },
+    "Who saves?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wer spart?"
+          }
+        }
+      }
+    },
+    "Whoever earns more pays proportionally more.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wer mehr verdient, zahlt anteilig mehr."
+          }
+        }
+      }
+    },
+    "With sick pay": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mit Krankengeld"
+          }
+        }
+      }
+    },
+    "Without church tax and children; you can refine it later in the calculator.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ohne Kirchensteuer und Kinder; genauer geht es später im Rechner."
+          }
+        }
+      }
+    },
+    "Work out in the calculator": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Im Rechner ermitteln"
+          }
+        }
+      }
+    },
+    "Working with a full old-age pension past the regular retirement age: no pension or unemployment contribution, health insurance without sick pay.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Du arbeitest mit voller Altersrente nach der Regelaltersgrenze: keine Renten- und Arbeitslosenversicherung, Krankenversicherung ohne Krankengeld."
+          }
+        }
+      }
+    },
+    "Year of birth": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geburtsjahr"
+          }
+        }
+      }
+    },
+    "Yearly": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jährlich"
+          }
+        }
+      }
+    },
+    "You": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Du"
+          }
+        }
+      }
+    },
+    "You agree on the percentages yourselves.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ihr legt die Anteile selbst fest."
+          }
+        }
+      }
+    },
+    "You are": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Du bist"
+          }
+        }
+      }
+    },
+    "You are short": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fehlen dir"
+          }
+        }
+      }
+    },
+    "You can add more members later.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weitere Mitglieder kannst du später hinzufügen."
+          }
+        }
+      }
+    },
+    "You can take out": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Du kannst entnehmen"
+          }
+        }
+      }
+    },
+    "You joined a shared household": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Du bist einem Haushalt beigetreten"
+          }
+        }
+      }
+    },
+    "You joined a shared household. Pick yourself so Pott can work out your share.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Du bist einem gemeinsamen Haushalt beigetreten. Wähle dich aus, damit Pott deinen Anteil ausrechnen kann."
+          }
+        }
+      }
+    },
+    "You pay (€)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Du zahlst (€)"
+          }
+        }
+      }
+    },
+    "You pay half, at least on €659.17 a month.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Du zahlst die Hälfte, mindestens auf 659,17 € im Monat."
+          }
+        }
+      }
+    },
+    "You pay the full rate yourself, at least on €1,318.33 a month.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Du zahlst den vollen Satz selbst, mindestens auf 1.318,33 € im Monat."
+          }
+        }
+      }
+    },
+    "Your costs are higher than your income": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deine Kosten sind höher als dein Einkommen"
+          }
+        }
+      }
+    },
+    "Your data stays on your devices and in your iCloud. Pott has no account, no ads and no tracking.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deine Daten bleiben auf deinen Geräten und in deiner iCloud. Pott hat kein Konto, keine Werbung und kein Tracking."
+          }
+        }
+      }
+    },
+    "Your employer pays half, at most €508.59 for health and €104.63 for care.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dein Arbeitgeber zahlt die Hälfte, höchstens 508,59 € für die Kranken- und 104,63 € für die Pflegeversicherung."
+          }
+        }
+      }
+    },
+    "Your health and care premiums minus the employer’s subsidy: half the premium, at most what it would pay for statutory insurance.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deine Kranken- und Pflegebeiträge minus Arbeitgeberzuschuss: die Hälfte des Beitrags, höchstens so viel wie bei gesetzlicher Versicherung."
+          }
+        }
+      }
+    },
+    "Your last unemployment benefit plus €300 a month for social insurance. Tax-free.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dein letztes Arbeitslosengeld plus 300 € im Monat für die Sozialversicherung. Steuerfrei."
+          }
+        }
+      }
+    },
+    "Your month": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dein Monat"
+          }
+        }
+      }
+    },
+    "Your name": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dein Name"
+          }
+        }
+      }
+    },
+    "Your net pay": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dein Netto"
+          }
+        }
+      }
+    },
+    "Your net pay, what actually lands in your account. You can add more income like a mini job later.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dein Netto, also was wirklich auf dem Konto landet. Weitere Einnahmen wie einen Minijob kannst du später ergänzen."
+          }
+        }
+      }
+    },
+    "Your own payment per month": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dein Eigenanteil im Monat"
+          }
+        }
+      }
+    },
+    "Your own premium after the state aid (Beihilfe). There is no employer subsidy.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dein eigener Beitrag nach Abzug der Beihilfe. Einen Arbeitgeberzuschuss gibt es nicht."
+          }
+        }
+      }
+    },
+    "Your share in %": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dein Anteil in %"
+          }
+        }
+      }
+    },
+    "Your share of 3.6 %. Without children you pay 0.6 % more; from the second child under 25 it gets cheaper. Saxony has its own split.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dein Anteil an 3,6 %. Ohne Kinder zahlst du 0,6 % mehr; ab dem zweiten Kind unter 25 wird es günstiger. Sachsen teilt anders auf."
+          }
+        }
+      }
+    },
+    "additional contribution %@ %%": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zusatzbeitrag %@ %%"
+          }
+        }
+      }
+    },
+    "agriculture, no additional contribution": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Landwirtschaft, kein Zusatzbeitrag"
+          }
+        }
+      }
+    },
+    "allowance": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Freibetrag"
+          }
+        }
+      }
+    },
+    "always taxed in class VI, which is why the deductions are higher.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "läuft immer über Klasse VI, deshalb sind die Abzüge höher."
+          }
+        }
+      }
+    },
+    "church tax": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kirchensteuer"
+          }
+        }
+      }
+    },
+    "civil servant": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Beamt:in"
+          }
+        }
+      }
+    },
+    "company bike": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dienstrad"
+          }
+        }
+      }
+    },
+    "company car": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dienstwagen"
+          }
+        }
+      }
+    },
+    "company pension": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Betriebsrente"
+          }
+        }
+      }
+    },
+    "e.g. employer, payday": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "z. B. Arbeitgeber, Zahltag"
+          }
+        }
+      }
+    },
+    "e.g. holiday, new car": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "z. B. Urlaub, neues Auto"
+          }
+        }
+      }
+    },
+    "e.g. mini job, child benefit": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "z. B. Minijob, Kindergeld"
+          }
+        }
+      }
+    },
+    "e.g. phone contract": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "z. B. Handyvertrag"
+          }
+        }
+      }
+    },
+    "employees of the company only": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "nur für Mitarbeitende"
+          }
+        }
+      }
+    },
+    "entered by you": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "selbst eingetragen"
+          }
+        }
+      }
+    },
+    "factor": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Faktor"
+          }
+        }
+      }
+    },
+    "flat-rate": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "pauschal"
+          }
+        }
+      }
+    },
+    "gives %@ net": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ergibt %@ netto"
+          }
+        }
+      }
+    },
+    "in %lld months": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "in %lld Monaten"
+          }
+        }
+      }
+    },
+    "income tax instead of wage tax, health and care insurance paid in full yourself, pension voluntary or compulsory for some professions.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Einkommensteuer statt Lohnsteuer, Kranken- und Pflegeversicherung ganz selbst, Rente freiwillig oder für manche Berufe Pflicht."
+          }
+        }
+      }
+    },
+    "leaves %@ to take out": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ergibt %@ zum Entnehmen"
+          }
+        }
+      }
+    },
+    "left": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "übrig"
+          }
+        }
+      }
+    },
+    "left for you": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "bleibt dir"
+          }
+        }
+      }
+    },
+    "left in the pot": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "übrig in der Kasse"
+          }
+        }
+      }
+    },
+    "married": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "verheiratet"
+          }
+        }
+      }
+    },
+    "married, both earn about the same.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "verheiratet, beide verdienen etwa gleich viel."
+          }
+        }
+      }
+    },
+    "married, earns less.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "verheiratet, verdient weniger."
+          }
+        }
+      }
+    },
+    "married, earns more.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "verheiratet, verdient mehr."
+          }
+        }
+      }
+    },
+    "missing in the pot": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "fehlt in der Kasse"
+          }
+        }
+      }
+    },
+    "n/a": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "entfällt"
+          }
+        }
+      }
+    },
+    "nationwide": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "bundesweit"
+          }
+        }
+      }
+    },
+    "no church tax": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "keine Kirchensteuer"
+          }
+        }
+      }
+    },
+    "no income yet": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "noch kein Einkommen"
+          }
+        }
+      }
+    },
+    "no wage tax, no health or care insurance. Only 3.6 % pension insurance, unless you are exempt.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "keine Lohnsteuer, keine Kranken- und Pflegeversicherung. Nur 3,6 % Rente, außer du bist befreit."
+          }
+        }
+      }
+    },
+    "of %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "von %@"
+          }
+        }
+      }
+    },
+    "one-off payment": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Einmalzahlung"
+          }
+        }
+      }
+    },
+    "pension": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Versorgungsbezug"
+          }
+        }
+      }
+    },
+    "pensioner": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rentner:in"
+          }
+        }
+      }
+    },
+    "plus %@ VAT a month to pass on": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "plus %@ Umsatzsteuer im Monat zum Weitergeben"
+          }
+        }
+      }
+    },
+    "plus %@ trade tax": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "plus %@ Gewerbesteuer"
+          }
+        }
+      }
+    },
+    "private insurance": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "privat versichert"
+          }
+        }
+      }
+    },
+    "second job.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "zweiter Job."
+          }
+        }
+      }
+    },
+    "short": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "fehlt"
+          }
+        }
+      }
+    },
+    "short-time work": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kurzarbeit"
+          }
+        }
+      }
+    },
+    "single": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ledig"
+          }
+        }
+      }
+    },
+    "single parent.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "alleinerziehend."
+          }
+        }
+      }
+    },
+    "single, separated or widowed.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ledig, getrennt oder verwitwet."
+          }
+        }
+      }
+    },
+    "you are short": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "fehlen dir"
+          }
+        }
+      }
+    },
+    "Ø %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ø %@"
+          }
+        }
+      }
+    },
+    "“%@” deleted": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "„%@“ gelöscht"
+          }
+        }
+      }
+    },
+    "“%@” paused": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "„%@“ pausiert"
+          }
+        }
+      }
+    },
+    "“%@” resumed": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "„%@“ fortgesetzt"
+          }
+        }
+      }
+    },
+    "“%@” saved": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "„%@“ gespeichert"
+          }
+        }
+      }
+    },
+    "€300 a month for nine more months, if the employment agency agrees. Tax-free.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "300 € im Monat für weitere neun Monate, wenn die Arbeitsagentur zustimmt. Steuerfrei."
+          }
+        }
+      }
+    },
+    "− %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "− %@"
+          }
+        }
+      }
+    },
+    "≈ %lld billable days a year · profit %@ a month. Days off are holidays, sick days, public holidays and gaps.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "≈ %lld abrechenbare Tage im Jahr · Gewinn %@ im Monat. Freie Tage sind Urlaub, Krankheit, Feiertage und Leerlauf."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "≈ %1$lld billable days a year · profit %2$@ a month. Days off are holidays, sick days, public holidays and gaps."
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

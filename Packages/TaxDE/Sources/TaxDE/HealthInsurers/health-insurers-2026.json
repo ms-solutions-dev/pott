@@ -1,0 +1,887 @@
+{
+  "year": 2026,
+  "asOf": "2026-11-02",
+  "retrieved": "2026-11-02",
+  "source": "https://www.gkv-spitzenverband.de/service/krankenkassenliste/krankenkassen.jsp",
+  "sourceNote": "GKV-Spitzenverband, list under § 242 (5) SGB V. Rates valid on asOf; the date a rate started is not part of the source.",
+  "averages": {
+    "2026": {
+      "rate": 2.9,
+      "source": "https://www.bundesanzeiger.de/pub/publication/oUJYVk8GYRXybnb9Y4h/content/oUJYVk8GYRXybnb9Y4h/BAnz%20AT%2010.11.2025%20B7.pdf",
+      "note": "BMG notice, BAnz AT 10.11.2025 B7"
+    },
+    "2027": {
+      "rate": 2.9,
+      "source": "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/zusatzbeitragssatz-gkv-2027-festgelegt",
+      "note": "BMG press release of 30.10.2026; Federal Gazette notice not yet checked"
+    }
+  },
+  "insurers": [
+    {
+      "name": "AOK - Die Gesundheitskasse für Niedersachsen",
+      "additionalRate": 2.98,
+      "scope": "states",
+      "states": [
+        "NI"
+      ],
+      "homepage": "http://www.aok.de/niedersachsen"
+    },
+    {
+      "name": "AOK - Die Gesundheitskasse in Hessen",
+      "additionalRate": 2.98,
+      "scope": "states",
+      "states": [
+        "HE"
+      ],
+      "homepage": "http://www.aok.de/hessen"
+    },
+    {
+      "name": "AOK Baden-Württemberg",
+      "additionalRate": 2.99,
+      "scope": "states",
+      "states": [
+        "BW"
+      ],
+      "homepage": "http://www.aok.de/baden-wuerttemberg/index.php"
+    },
+    {
+      "name": "AOK Bayern - Die Gesundheitskasse",
+      "additionalRate": 2.69,
+      "scope": "states",
+      "states": [
+        "BY"
+      ],
+      "homepage": "http://www.aok.de/bayern"
+    },
+    {
+      "name": "AOK Bremen / Bremerhaven",
+      "additionalRate": 3.29,
+      "scope": "states",
+      "states": [
+        "HB"
+      ],
+      "homepage": "http://www.aok.de/bremen"
+    },
+    {
+      "name": "AOK Nordost - Die Gesundheitskasse",
+      "additionalRate": 3.5,
+      "scope": "states",
+      "states": [
+        "BE",
+        "BB",
+        "MV"
+      ],
+      "homepage": "http://www.aok.de/nordost/"
+    },
+    {
+      "name": "AOK NordWest - Die Gesundheitskasse",
+      "additionalRate": 2.99,
+      "scope": "states",
+      "states": [
+        "NW",
+        "SH"
+      ],
+      "homepage": "http://www.aok.de/nordwest"
+    },
+    {
+      "name": "AOK PLUS - Die Gesundheitskasse für Sachsen und Thüringen",
+      "additionalRate": 3.1,
+      "scope": "states",
+      "states": [
+        "SN",
+        "TH"
+      ],
+      "homepage": "http://www.aok.de/aokplus"
+    },
+    {
+      "name": "AOK Rheinland-Pfalz/Saarland-Die Gesundheitskasse",
+      "additionalRate": 2.47,
+      "scope": "states",
+      "states": [
+        "RP",
+        "SL"
+      ],
+      "homepage": "http://www.aok.de/rheinland-pfalz-saarland/"
+    },
+    {
+      "name": "AOK Rheinland/Hamburg - Die Gesundheitskasse",
+      "additionalRate": 3.29,
+      "scope": "states",
+      "states": [
+        "HH",
+        "NW"
+      ],
+      "homepage": "http://www.aok.de/rheinland-hamburg"
+    },
+    {
+      "name": "AOK Sachsen-Anhalt - Die Gesundheitskasse",
+      "additionalRate": 2.89,
+      "scope": "states",
+      "states": [
+        "ST"
+      ],
+      "homepage": "http://www.aok.de/sachsen-anhalt"
+    },
+    {
+      "name": "Audi BKK",
+      "additionalRate": 2.6,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.Audibkk.de"
+    },
+    {
+      "name": "BAHN-BKK",
+      "additionalRate": 3.65,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.bahn-bkk.de"
+    },
+    {
+      "name": "BARMER",
+      "additionalRate": 3.29,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.barmer.de"
+    },
+    {
+      "name": "BERGISCHE KRANKENKASSE",
+      "additionalRate": 3.79,
+      "scope": "states",
+      "states": [
+        "HH",
+        "HE",
+        "NW"
+      ],
+      "homepage": "http://www.bergische-krankenkasse.de"
+    },
+    {
+      "name": "Bertelsmann BKK",
+      "additionalRate": 3.2,
+      "scope": "states",
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "SN",
+        "TH"
+      ],
+      "homepage": "http://www.bertelsmann-bkk.de"
+    },
+    {
+      "name": "Betriebskrankenkasse der G.M. Pfaff AG",
+      "additionalRate": 2.78,
+      "scope": "states",
+      "states": [
+        "RP",
+        "SH",
+        "TH"
+      ],
+      "homepage": "http://www.bkk-pfaff.de"
+    },
+    {
+      "name": "Betriebskrankenkasse EWE",
+      "additionalRate": 3.19,
+      "scope": "company",
+      "states": [],
+      "homepage": "http://www.bkk-ewe.de"
+    },
+    {
+      "name": "Betriebskrankenkasse Miele",
+      "additionalRate": 3.2,
+      "scope": "company",
+      "states": [],
+      "homepage": "http://www.bkk-miele.de"
+    },
+    {
+      "name": "Betriebskrankenkasse Mobil",
+      "additionalRate": 3.89,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.mobil-krankenkasse.de"
+    },
+    {
+      "name": "Betriebskrankenkasse PricewaterhouseCoopers",
+      "additionalRate": 2.8,
+      "scope": "company",
+      "states": [],
+      "homepage": "http://www.bkk-pwc.de"
+    },
+    {
+      "name": "Betriebskrankenkasse Technoform",
+      "additionalRate": 3.49,
+      "scope": "states",
+      "states": [
+        "BW",
+        "BY",
+        "NI",
+        "RP"
+      ],
+      "homepage": "http://www.bkk-technoform.de"
+    },
+    {
+      "name": "BIG direkt gesund",
+      "additionalRate": 3.69,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.big-direkt.de"
+    },
+    {
+      "name": "BKK Akzo Nobel Bayern",
+      "additionalRate": 3.39,
+      "scope": "states",
+      "states": [
+        "BY"
+      ],
+      "homepage": "http://www.bkk-akzo.de"
+    },
+    {
+      "name": "BKK B. Braun Aesculap",
+      "additionalRate": 3.65,
+      "scope": "company",
+      "states": [],
+      "homepage": "http://www.bkk-bba.de"
+    },
+    {
+      "name": "BKK Deutsche Bank AG",
+      "additionalRate": 3.4,
+      "scope": "company",
+      "states": [],
+      "homepage": "http://www.bkk-deutsche-bank.de"
+    },
+    {
+      "name": "BKK Diakonie",
+      "additionalRate": 3.8,
+      "scope": "states",
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SN",
+        "ST",
+        "SH"
+      ],
+      "homepage": "http://www.bkk-diakonie.de"
+    },
+    {
+      "name": "BKK EUREGIO",
+      "additionalRate": 3.39,
+      "scope": "states",
+      "states": [
+        "HH",
+        "NW"
+      ],
+      "homepage": "http://www.bkk-euregio.de"
+    },
+    {
+      "name": "BKK evm",
+      "additionalRate": 2.5,
+      "scope": "company",
+      "states": [],
+      "homepage": "http://www.bkk-evm.de"
+    },
+    {
+      "name": "BKK exklusiv",
+      "additionalRate": 3.49,
+      "scope": "states",
+      "states": [
+        "HB",
+        "MV",
+        "NI",
+        "NW",
+        "ST",
+        "SH"
+      ],
+      "homepage": "http://www.bkkexklusiv.de"
+    },
+    {
+      "name": "BKK Faber-Castell & Partner",
+      "additionalRate": 2.48,
+      "scope": "states",
+      "states": [
+        "BY"
+      ],
+      "homepage": "http://www.bkk-faber-castell.de"
+    },
+    {
+      "name": "BKK firmus",
+      "additionalRate": 2.18,
+      "scope": "states",
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "HB",
+        "HH",
+        "HE",
+        "NI",
+        "NW",
+        "SN",
+        "ST"
+      ],
+      "homepage": "http://www.bkk-firmus.de"
+    },
+    {
+      "name": "BKK Freudenberg",
+      "additionalRate": 2.99,
+      "scope": "states",
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "HE",
+        "NI",
+        "NW",
+        "RP",
+        "SN"
+      ],
+      "homepage": "http://www.bkk-freudenberg.de"
+    },
+    {
+      "name": "BKK GILDEMEISTER SEIDENSTICKER",
+      "additionalRate": 3.4,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.bkkgs.de"
+    },
+    {
+      "name": "BKK Groz-Beckert",
+      "additionalRate": 4.2,
+      "scope": "company",
+      "states": [],
+      "homepage": "http://www.bkk-gb.de"
+    },
+    {
+      "name": "BKK Herkules",
+      "additionalRate": 3.48,
+      "scope": "states",
+      "states": [
+        "BY",
+        "HE",
+        "NI"
+      ],
+      "homepage": "http://www.bkk-herkules.de/"
+    },
+    {
+      "name": "BKK Linde",
+      "additionalRate": 2.99,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.bkk-linde.de"
+    },
+    {
+      "name": "BKK MAHLE",
+      "additionalRate": 4.2,
+      "scope": "company",
+      "states": [],
+      "homepage": "http://www.bkk-mahle.de"
+    },
+    {
+      "name": "bkk melitta hmr",
+      "additionalRate": 3.9,
+      "scope": "states",
+      "states": [
+        "BW",
+        "BY",
+        "BB",
+        "HB",
+        "HE",
+        "NI",
+        "NW",
+        "SN",
+        "ST",
+        "SH"
+      ],
+      "homepage": "http://www.bkk-melitta-hmr.de/"
+    },
+    {
+      "name": "BKK mkk - meine krankenkasse",
+      "additionalRate": 3.5,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.meine-krankenkasse.de"
+    },
+    {
+      "name": "BKK MTU",
+      "additionalRate": 2.8,
+      "scope": "company",
+      "states": [],
+      "homepage": "http://www.bkk-mtu.de"
+    },
+    {
+      "name": "BKK Pfalz",
+      "additionalRate": 3.9,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.bkkpfalz.de"
+    },
+    {
+      "name": "BKK ProVita",
+      "additionalRate": 3.79,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.bkk-provita.de/"
+    },
+    {
+      "name": "BKK Public",
+      "additionalRate": 2.5,
+      "scope": "states",
+      "states": [
+        "HH",
+        "NI",
+        "NW"
+      ],
+      "homepage": "http://www.bkk-public.de"
+    },
+    {
+      "name": "BKK Rieker.RICOSTA.Weisser",
+      "additionalRate": 4.2,
+      "scope": "company",
+      "states": [],
+      "homepage": "http://www.bkk-rrw.de"
+    },
+    {
+      "name": "BKK Salzgitter",
+      "additionalRate": 3.5,
+      "scope": "company",
+      "states": [],
+      "homepage": "http://www.bkk-salzgitter.de"
+    },
+    {
+      "name": "BKK Scheufelen",
+      "additionalRate": 3.99,
+      "scope": "states",
+      "states": [
+        "BW"
+      ],
+      "homepage": "http://www.bkk-scheufelen.de"
+    },
+    {
+      "name": "BKK Schwarzwald-Baar-Heuberg",
+      "additionalRate": 2.79,
+      "scope": "states",
+      "states": [
+        "BW"
+      ],
+      "homepage": "http://www.bkk-sbh.de"
+    },
+    {
+      "name": "BKK VDN",
+      "additionalRate": 3.19,
+      "scope": "states",
+      "states": [
+        "HH",
+        "NW",
+        "SN"
+      ],
+      "homepage": "http://www.bkk-vdn.de"
+    },
+    {
+      "name": "BKK VerbundPlus",
+      "additionalRate": 3.89,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.bkk-verbundplus.de"
+    },
+    {
+      "name": "BKK WERRA-MEISSNER",
+      "additionalRate": 4.35,
+      "scope": "states",
+      "states": [
+        "BY",
+        "HE"
+      ],
+      "homepage": "http://www.bkk-werra-meissner.de"
+    },
+    {
+      "name": "BKK WIRTSCHAFT UND FINANZEN",
+      "additionalRate": 3.99,
+      "scope": "states",
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN"
+      ],
+      "homepage": "http://www.bkk-wf.de/"
+    },
+    {
+      "name": "BKK-Würth",
+      "additionalRate": 3.4,
+      "scope": "company",
+      "states": [],
+      "homepage": "http://www.bkk-wuerth.de"
+    },
+    {
+      "name": "BKK24",
+      "additionalRate": 4.39,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.bkk24.de"
+    },
+    {
+      "name": "BKK_DürkoppAdler",
+      "additionalRate": 3.88,
+      "scope": "states",
+      "states": [
+        "NW"
+      ],
+      "homepage": "http://www.bkk-da.de"
+    },
+    {
+      "name": "BMW BKK",
+      "additionalRate": 2.9,
+      "scope": "company",
+      "states": [],
+      "homepage": "http://www.bmwbkk.de"
+    },
+    {
+      "name": "Bosch BKK",
+      "additionalRate": 3.18,
+      "scope": "states",
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "TH"
+      ],
+      "homepage": "http://www.bosch-bkk.de"
+    },
+    {
+      "name": "Continentale Betriebskrankenkasse",
+      "additionalRate": 3.33,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.continentale-bkk.de"
+    },
+    {
+      "name": "DAK-Gesundheit",
+      "additionalRate": 3.2,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.dak.de"
+    },
+    {
+      "name": "Debeka BKK",
+      "additionalRate": 3.25,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.debeka-bkk.de"
+    },
+    {
+      "name": "energie-Betriebskrankenkasse",
+      "additionalRate": 3.98,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.energie-bkk.de"
+    },
+    {
+      "name": "EY Betriebskrankenkasse",
+      "additionalRate": 2.75,
+      "scope": "company",
+      "states": [],
+      "homepage": "http://www.ey-bkk.de"
+    },
+    {
+      "name": "Handelskrankenkasse (hkk)",
+      "additionalRate": 2.59,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.hkk.de"
+    },
+    {
+      "name": "Heimat Krankenkasse",
+      "additionalRate": 3.9,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.heimat-krankenkasse.de"
+    },
+    {
+      "name": "HEK - Hanseatische Krankenkasse",
+      "additionalRate": 2.89,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.hek.de"
+    },
+    {
+      "name": "IKK - Die Innovationskasse",
+      "additionalRate": 4.3,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.die-ik.de"
+    },
+    {
+      "name": "IKK classic",
+      "additionalRate": 3.85,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.ikk-classic.de"
+    },
+    {
+      "name": "IKK gesund plus",
+      "additionalRate": 3.39,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.ikk-gesundplus.de"
+    },
+    {
+      "name": "IKK Südwest",
+      "additionalRate": 3.87,
+      "scope": "states",
+      "states": [
+        "HE",
+        "RP",
+        "SL"
+      ],
+      "homepage": "http://www.ikk-suedwest.de"
+    },
+    {
+      "name": "KARL MAYER BKK",
+      "additionalRate": 2.99,
+      "scope": "company",
+      "states": [],
+      "homepage": "http://www.karlmayer-bkk.de"
+    },
+    {
+      "name": "Kaufmännische Krankenkasse - KKH",
+      "additionalRate": 3.78,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.kkh.de"
+    },
+    {
+      "name": "KNAPPSCHAFT",
+      "additionalRate": 4.3,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.knappschaft.de"
+    },
+    {
+      "name": "Koenig & Bauer BKK",
+      "additionalRate": 3.18,
+      "scope": "company",
+      "states": [],
+      "homepage": "http://www.koenig-bauer-bkk.de"
+    },
+    {
+      "name": "Krones Betriebskrankenkasse",
+      "additionalRate": 2.2,
+      "scope": "company",
+      "states": [],
+      "homepage": "http://www.bkk-krones.de"
+    },
+    {
+      "name": "Mercedes-Benz BKK",
+      "additionalRate": 3.2,
+      "scope": "company",
+      "states": [],
+      "homepage": "http://www.mercedes-benz-bkk.com//"
+    },
+    {
+      "name": "Merck BKK",
+      "additionalRate": 3.97,
+      "scope": "company",
+      "states": [],
+      "homepage": "http://www.merck-bkk.de"
+    },
+    {
+      "name": "mhplus Betriebskrankenkasse",
+      "additionalRate": 3.86,
+      "scope": "states",
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "SH",
+        "TH"
+      ],
+      "homepage": "http://www.mhplus.de"
+    },
+    {
+      "name": "novitas bkk",
+      "additionalRate": 3.6,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.novitas-bkk.de"
+    },
+    {
+      "name": "Pronova BKK",
+      "additionalRate": 3.7,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.pronovabkk.de"
+    },
+    {
+      "name": "R+V Betriebskrankenkasse",
+      "additionalRate": 3.49,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.ruv-bkk.de"
+    },
+    {
+      "name": "Salus BKK",
+      "additionalRate": 3.29,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.salus-bkk.de"
+    },
+    {
+      "name": "SECURVITA BKK",
+      "additionalRate": 3.9,
+      "scope": "states",
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "homepage": "http://www.securvita.de"
+    },
+    {
+      "name": "Siemens-Betriebskrankenkasse (SBK)",
+      "additionalRate": 3.8,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.sbk.org"
+    },
+    {
+      "name": "SKD BKK",
+      "additionalRate": 3.65,
+      "scope": "states",
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "HB",
+        "HH",
+        "HE",
+        "NI",
+        "NW",
+        "SL",
+        "SN",
+        "SH"
+      ],
+      "homepage": "http://www.skd-bkk.de"
+    },
+    {
+      "name": "Sozialversicherung für Landwirtschaft, Forsten und Gartenbau (SVLFG)",
+      "additionalRate": null,
+      "scope": "sector",
+      "states": [],
+      "homepage": "http://www.svlfg.de"
+    },
+    {
+      "name": "Südzucker BKK",
+      "additionalRate": 3.5,
+      "scope": "company",
+      "states": [],
+      "homepage": "http://www.suedzucker-bkk.de"
+    },
+    {
+      "name": "Techniker Krankenkasse",
+      "additionalRate": 2.69,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.tk.de"
+    },
+    {
+      "name": "TUI BKK",
+      "additionalRate": 2.5,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.tui-bkk.de/"
+    },
+    {
+      "name": "VIACTIV Krankenkasse",
+      "additionalRate": 4.19,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.viactiv.de"
+    },
+    {
+      "name": "vivida bkk",
+      "additionalRate": 3.79,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.vividabkk.de/"
+    },
+    {
+      "name": "WMF BKK",
+      "additionalRate": 2.85,
+      "scope": "nationwide",
+      "states": [],
+      "homepage": "http://www.wmf-bkk.de"
+    },
+    {
+      "name": "ZF BKK",
+      "additionalRate": 3.4,
+      "scope": "states",
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "TH"
+      ],
+      "homepage": "http://www.zfbkk.de"
+    }
+  ]
+}

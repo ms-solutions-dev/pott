@@ -1,0 +1,13 @@
+# XcodeGen: `xcodegen generate`
+*.xcodeproj
+*.xcworkspace
+.build/
+build/
+DerivedData/
+.dd/
+.DS_Store
+*.xcuserstate
+App/Info.plist
+Widget/Info.plist
+.swiftpm/
+.dd-device/

@@ -1,0 +1,133 @@
+# ══════════════════════════════════════════════════════════════════════
+# Pott — project description for XcodeGen.
+#
+# The `.xcodeproj` is a build product and listed in `.gitignore`; this file
+# is the source of truth. Generate the project with `xcodegen generate`.
+# ══════════════════════════════════════════════════════════════════════
+
+name: Pott
+
+options:
+  bundleIdPrefix: dev.ms-solutions
+  developmentLanguage: en
+  deploymentTarget:
+    iOS: "26.0"
+  createIntermediateGroups: true
+  groupSortPosition: top
+
+packages:
+  PottCore:
+    path: Packages/PottCore
+  PottStore:
+    path: Packages/PottStore
+  PottDesign:
+    path: Packages/PottDesign
+  PottFeatures:
+    path: Packages/PottFeatures
+  TaxDE:
+    path: Packages/TaxDE
+
+settings:
+  base:
+    MARKETING_VERSION: "0.1.0"
+    CURRENT_PROJECT_VERSION: "2"
+    SWIFT_VERSION: "6.0"
+    SWIFT_STRICT_CONCURRENCY: complete
+    LOCALIZATION_PREFERS_STRING_CATALOGS: YES
+    SWIFT_EMIT_LOC_STRINGS: YES
+
+schemes:
+  Pott:
+    build:
+      targets:
+        Pott: all
+    test:
+      targets:
+        - PottUITests
+
+targets:
+  Pott:
+    type: application
+    platform: iOS
+    sources:
+      - App/Sources
+      - Shared
+      - path: App/Resources
+        buildPhase: resources
+    dependencies:
+      - package: PottCore
+      - package: PottStore
+      - package: PottDesign
+      - package: PottFeatures
+      - package: TaxDE
+      - target: PottWidget
+    info:
+      path: App/Info.plist
+      properties:
+        CFBundleDisplayName: Pott
+        NSFaceIDUsageDescription: Pott can lock your budget with Face ID.
+        CKSharingSupported: true
+        UIBackgroundModes:
+          - remote-notification
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+        ITSAppUsesNonExemptEncryption: false
+        PottCloudEnvironment: $(POTT_CLOUD_ENV)
+        UILaunchScreen: {}
+        UISupportedInterfaceOrientations:
+          - UIInterfaceOrientationPortrait
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: dev.ms-solutions.pott
+        CODE_SIGN_ENTITLEMENTS: App/Pott.entitlements
+        # CloudKit environment. Development for test builds: the app creates the schema there on
+        # first launch. Set to Production (after deploying the schema) before the App Store release.
+        POTT_CLOUD_ENV: Development
+        ASSETCATALOG_COMPILER_ALTERNATE_APPICON_NAMES: AppIconLight
+        ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS: YES
+        TARGETED_DEVICE_FAMILY: "1"
+        CODE_SIGN_STYLE: Automatic
+        ENABLE_PREVIEWS: YES
+
+  # UI tests of the main flows on the demo data.
+  PottUITests:
+    type: bundle.ui-testing
+    platform: iOS
+    sources:
+      - UITests
+    dependencies:
+      - target: Pott
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: dev.ms-solutions.pott.uitests
+        GENERATE_INFOPLIST_FILE: YES
+        TARGETED_DEVICE_FAMILY: "1"
+
+  # Home and lock screen widget; reads a small snapshot the app writes into the app group.
+  PottWidget:
+    type: app-extension
+    platform: iOS
+    sources:
+      - Widget/Sources
+      - Shared
+      - path: App/Resources/Localizable.xcstrings
+        buildPhase: resources
+    dependencies:
+      - package: PottDesign
+      - sdk: WidgetKit.framework
+      - sdk: SwiftUI.framework
+    info:
+      path: Widget/Info.plist
+      properties:
+        CFBundleDisplayName: Pott
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+        NSExtension:
+          NSExtensionPointIdentifier: com.apple.widgetkit-extension
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: dev.ms-solutions.pott.widget
+        CODE_SIGN_ENTITLEMENTS: Widget/PottWidget.entitlements
+        TARGETED_DEVICE_FAMILY: "1"
+        GENERATE_INFOPLIST_FILE: NO
+        SKIP_INSTALL: YES
