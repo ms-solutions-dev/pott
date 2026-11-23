@@ -33,6 +33,32 @@ No account, no bank login, no ads, no tracking. Your data stays on your devices 
 - **Pay calculator (Germany):** wage tax, solidarity surcharge and church tax generated from the official BMF pseudocode and checked against the BMF test interface; social insurance including the transition zone, mini jobs and second jobs; desired net
 - **Monthly review**, **contract reminders**, home and lock screen **widget**, Face ID lock, CSV export, light and dark, English and German
 
+## FAQ
+
+### Do I have to connect my bank account?
+
+No. Pott has no bank login. You enter income and fixed costs yourself, once, and Pott shows what is left each month.
+
+### Can I share a budget with my partner or flatmates?
+
+Yes. A household pot can have any number of members and is shared through iCloud. Costs can be split by fixed amounts, equally, by income or by agreed shares, and personal entries stay private.
+
+### How accurate is the German gross-to-net calculator?
+
+Wage tax, solidarity surcharge and church tax are generated from the official BMF pseudocode and checked against the BMF test interface. Social insurance includes the transition zone, mini jobs and second jobs. The results are still examples without guarantee.
+
+### Does Pott work outside Germany?
+
+The budget works anywhere. The pay calculator covers Germany only; another country can be added as its own package behind the `NetPayCalculator` protocol (see [Architecture](#architecture)).
+
+### Where is my data stored?
+
+On your devices and in your own iCloud. There is no account with us, no ads and no tracking.
+
+### How can I get it?
+
+Build it yourself with Xcode, see [Build](#build). Start it with `-PottDemo full` to try it with example data.
+
 ## Architecture
 
 | Package | Role |
